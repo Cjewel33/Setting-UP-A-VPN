@@ -31,7 +31,8 @@ STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.
 
 EXAMPLE 1A
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="899" alt="Capture" src="https://github.com/user-attachments/assets/c17332ca-9f9f-4669-a131-4d5c7db1b475"/>
+/>
 </p>
 <p>
 
